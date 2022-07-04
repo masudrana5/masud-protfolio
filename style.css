@@ -69,5 +69,13 @@ h2{
    box-shadow: 5px 5px 40px gray;
    padding-left: 30px;
    border-radius: 10px;
+}
+#full-stack-developer{
+   border-left: 7px solid tomato;
+}
+#baby-web-developer{
    border-left: 7px solid blue;
+}
+footer p{
+text-align: center;
 }
